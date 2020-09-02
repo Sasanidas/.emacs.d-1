@@ -1,0 +1,2 @@
+;;; Generated package description from /Users/jason/.emacs.d/elpa/evil-iedit-state-20200820.1258/evil-iedit-state.el  -*- no-byte-compile: t -*-
+(define-package "evil-iedit-state" "20200820.1258" "Evil states to interface iedit mode." '((evil "1.0.9") (iedit "0.9.9.9")) :commit "f5573ddefc03309037bd98c4c649d517f4f8d659" :keywords '("convenience" "editing" "evil" "iedit" "mnemonic") :authors '(("Sylvain Benner" . "sylvain.benner@gmail.com")) :maintainer '("Sylvain Benner" . "sylvain.benner@gmail.com") :url "https://github.com/syl20bnr/evil-iedit-state")

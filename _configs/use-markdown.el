@@ -11,7 +11,6 @@
   :init (setq markdown-command "markdown")
   :config
   (progn
-    (require 'jekyll-modes)
 
     (unbind-key "C-<up>"           markdown-mode-map)
     (unbind-key "C-<down>"         markdown-mode-map)
